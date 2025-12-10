@@ -1,0 +1,13 @@
+# Dependencies
+/node_modules/
+/server/node_modules/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
